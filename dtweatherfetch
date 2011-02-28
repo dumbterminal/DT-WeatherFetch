@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 #
 # Simple Weather Fetch
 #  use script to get weather from Wunderground.com, uses the mobile site for the minimal output. 
