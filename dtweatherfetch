@@ -2,14 +2,15 @@
 #
 # Simple Weather Fetch
 #  use script to get weather from Wunderground.com, uses the mobile site for the minimal output. 
+VER="0.2"
 # http://dt.tehspork.com
 # Dumb Terminal
-#  Smaller than Life Projects
+# Smaller than Life Projects
 # Main Page: http://dt.tehspork.com
 # Git Repo: https://github.com/dumbterminal/
-# By: MikereDD
+# By: MikereDD & veekahn
 # email: dumbterminal -at- tehspork.com
-
+#
 # DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 #                    Version 2, December 2004
 #
